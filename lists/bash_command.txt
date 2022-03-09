@@ -1,0 +1,6 @@
+$pwd
+/home/mustapha/NSE
+
+$ls ./ncbi-genomes-2022-03-03/ | grep '^GCA' |sed 's/_wgsmaster\.gbff\.gz//' > sequence_ids.txt
+
+ls ./ncbi-genomes-2022-03-03/ | grep '^GCA'| sed 's/\..*//' | tr -d '_'| sed 's/.\{3\}/&\//g'| paste -d '' - sequence_ids.txt  | paste -d '/' - sequence_ids.txt | sed 's/$/_genomic.fna.gz/' | sed 's/^/ftp\:\/\/ftp\.ncbi\.nlm\.nih\.gov\/genomes\/all\//' > sequence_ftp_links.txt
