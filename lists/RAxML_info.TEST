@@ -1,0 +1,231 @@
+IMPORTANT WARNING: Alignment column 659578 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659579 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659580 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659581 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659582 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659583 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659584 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659585 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659586 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659587 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659588 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659589 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659590 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659591 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659592 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659593 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659594 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659595 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659596 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659597 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659598 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659599 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659600 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659601 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659602 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659603 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659604 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659605 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659606 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659607 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659608 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659609 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659610 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659611 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659612 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659613 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659614 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659615 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659616 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659617 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659618 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659619 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659620 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659621 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659622 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659623 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659624 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659625 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659626 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659627 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659628 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659629 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659630 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 659631 contains only undetermined values which will be treated as missing data
+
+IMPORTANT WARNING
+Found 54 columns that contain only undetermined values which will be treated as missing data.
+Normally these columns should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+undetermined columns removed is printed to file ./BIGSdb_028404_2140091814_05228.fas.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+Alignment has 54 completely undetermined sites that will be automatically removed from the input data
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 587177 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 36.34%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 587177
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/mustapha/bin/RAxML/raxmlHPC-PTHREADS-SSE3 -f a -s ./BIGSdb_028404_2140091814_05228.fas -p 6743 -x 6743 -N 100 -m GTRCAT -n TEST 
+
+
+
+Time for BS model parameter optimization 180.850813
+Bootstrap[0]: Time 413.206247 seconds, bootstrap likelihood -12200579.501886, best rearrangement setting 11
+Bootstrap[1]: Time 96.314645 seconds, bootstrap likelihood -12214932.417525, best rearrangement setting 11
+Bootstrap[2]: Time 218.686781 seconds, bootstrap likelihood -12219809.413378, best rearrangement setting 15
+Bootstrap[3]: Time 92.274944 seconds, bootstrap likelihood -12217969.542842, best rearrangement setting 11
+Bootstrap[4]: Time 92.319406 seconds, bootstrap likelihood -12205024.090647, best rearrangement setting 15
+Bootstrap[5]: Time 93.009188 seconds, bootstrap likelihood -12212040.506090, best rearrangement setting 13
+Bootstrap[6]: Time 94.612646 seconds, bootstrap likelihood -12212912.396692, best rearrangement setting 10
+Bootstrap[7]: Time 93.441965 seconds, bootstrap likelihood -12216828.571641, best rearrangement setting 11
+Bootstrap[8]: Time 93.849043 seconds, bootstrap likelihood -12209575.997772, best rearrangement setting 7
+Bootstrap[9]: Time 94.135016 seconds, bootstrap likelihood -12196268.577974, best rearrangement setting 9
+Bootstrap[10]: Time 224.042261 seconds, bootstrap likelihood -12190589.952356, best rearrangement setting 10
+Bootstrap[11]: Time 92.594366 seconds, bootstrap likelihood -12211818.526919, best rearrangement setting 12
+Bootstrap[12]: Time 216.108697 seconds, bootstrap likelihood -12214680.913857, best rearrangement setting 15
+Bootstrap[13]: Time 94.218408 seconds, bootstrap likelihood -12207703.043846, best rearrangement setting 6
+Bootstrap[14]: Time 214.323802 seconds, bootstrap likelihood -12199755.410685, best rearrangement setting 11
+Bootstrap[15]: Time 234.976868 seconds, bootstrap likelihood -12204455.810729, best rearrangement setting 14
+Bootstrap[16]: Time 222.553945 seconds, bootstrap likelihood -12205295.982584, best rearrangement setting 12
+Bootstrap[17]: Time 207.566462 seconds, bootstrap likelihood -12219409.876362, best rearrangement setting 10
+Bootstrap[18]: Time 206.913891 seconds, bootstrap likelihood -12197827.442160, best rearrangement setting 8
+Bootstrap[19]: Time 228.099521 seconds, bootstrap likelihood -12197801.939740, best rearrangement setting 11
+Bootstrap[20]: Time 271.918561 seconds, bootstrap likelihood -12212362.368188, best rearrangement setting 15
+Bootstrap[21]: Time 234.594740 seconds, bootstrap likelihood -12205344.285545, best rearrangement setting 6
+Bootstrap[22]: Time 269.265721 seconds, bootstrap likelihood -12226157.091827, best rearrangement setting 9
+Bootstrap[23]: Time 282.327280 seconds, bootstrap likelihood -12212230.733002, best rearrangement setting 10
+Bootstrap[24]: Time 280.903827 seconds, bootstrap likelihood -12222281.213112, best rearrangement setting 11
+Bootstrap[25]: Time 115.506018 seconds, bootstrap likelihood -12223310.397904, best rearrangement setting 6
+Bootstrap[26]: Time 335.754240 seconds, bootstrap likelihood -12214108.514327, best rearrangement setting 7
+Bootstrap[27]: Time 292.260922 seconds, bootstrap likelihood -12209283.130968, best rearrangement setting 9
+Bootstrap[28]: Time 264.195977 seconds, bootstrap likelihood -12213922.359139, best rearrangement setting 14
+Bootstrap[29]: Time 259.372133 seconds, bootstrap likelihood -12210357.381244, best rearrangement setting 10
+Bootstrap[30]: Time 246.222932 seconds, bootstrap likelihood -12224630.478904, best rearrangement setting 7
+Bootstrap[31]: Time 269.794140 seconds, bootstrap likelihood -12212330.938366, best rearrangement setting 15
+Bootstrap[32]: Time 306.036875 seconds, bootstrap likelihood -12210280.848540, best rearrangement setting 11
+Bootstrap[33]: Time 142.038621 seconds, bootstrap likelihood -12214655.696528, best rearrangement setting 14
+Bootstrap[34]: Time 143.805564 seconds, bootstrap likelihood -12213328.725227, best rearrangement setting 10
+Bootstrap[35]: Time 322.467251 seconds, bootstrap likelihood -12204399.348033, best rearrangement setting 6
+Bootstrap[36]: Time 268.409656 seconds, bootstrap likelihood -12218932.315111, best rearrangement setting 14
+Bootstrap[37]: Time 120.245746 seconds, bootstrap likelihood -12224555.651846, best rearrangement setting 13
+Bootstrap[38]: Time 270.663946 seconds, bootstrap likelihood -12227340.539204, best rearrangement setting 7
+Bootstrap[39]: Time 103.413871 seconds, bootstrap likelihood -12220880.737958, best rearrangement setting 15
+Bootstrap[40]: Time 302.639298 seconds, bootstrap likelihood -12198179.368244, best rearrangement setting 7
+Bootstrap[41]: Time 261.681823 seconds, bootstrap likelihood -12219666.616404, best rearrangement setting 13
+Bootstrap[42]: Time 283.137111 seconds, bootstrap likelihood -12201946.120082, best rearrangement setting 8
+Bootstrap[43]: Time 263.420295 seconds, bootstrap likelihood -12209073.751304, best rearrangement setting 15
+Bootstrap[44]: Time 232.495767 seconds, bootstrap likelihood -12218209.190191, best rearrangement setting 8
+Bootstrap[45]: Time 228.389058 seconds, bootstrap likelihood -12210338.948309, best rearrangement setting 15
+Bootstrap[46]: Time 101.900285 seconds, bootstrap likelihood -12209965.172158, best rearrangement setting 14
+Bootstrap[47]: Time 296.139724 seconds, bootstrap likelihood -12222580.170430, best rearrangement setting 15
+Bootstrap[48]: Time 328.460670 seconds, bootstrap likelihood -12220654.336848, best rearrangement setting 10
+Bootstrap[49]: Time 131.679630 seconds, bootstrap likelihood -12223023.618209, best rearrangement setting 11
+Bootstrap[50]: Time 304.437888 seconds, bootstrap likelihood -12207686.802290, best rearrangement setting 13
+Bootstrap[51]: Time 299.696283 seconds, bootstrap likelihood -12191725.342560, best rearrangement setting 13
+Bootstrap[52]: Time 308.927591 seconds, bootstrap likelihood -12212225.698360, best rearrangement setting 6
+Bootstrap[53]: Time 155.368770 seconds, bootstrap likelihood -12205708.694451, best rearrangement setting 11
+Bootstrap[54]: Time 370.949716 seconds, bootstrap likelihood -12223755.997374, best rearrangement setting 10
+Bootstrap[55]: Time 193.176074 seconds, bootstrap likelihood -12212216.005317, best rearrangement setting 8
+Bootstrap[56]: Time 427.742132 seconds, bootstrap likelihood -12189305.694354, best rearrangement setting 6
+Bootstrap[57]: Time 219.517486 seconds, bootstrap likelihood -12206873.019523, best rearrangement setting 12
+Bootstrap[58]: Time 460.985449 seconds, bootstrap likelihood -12213054.220558, best rearrangement setting 5
+Bootstrap[59]: Time 280.637979 seconds, bootstrap likelihood -12223434.638135, best rearrangement setting 7
+Bootstrap[60]: Time 307.275405 seconds, bootstrap likelihood -12188020.947040, best rearrangement setting 13
+Bootstrap[61]: Time 263.805246 seconds, bootstrap likelihood -12207572.267722, best rearrangement setting 8
+Bootstrap[62]: Time 116.362052 seconds, bootstrap likelihood -12205567.931922, best rearrangement setting 5
+Bootstrap[63]: Time 112.761745 seconds, bootstrap likelihood -12225631.936803, best rearrangement setting 10
+Bootstrap[64]: Time 111.243746 seconds, bootstrap likelihood -12214722.829173, best rearrangement setting 13
+Bootstrap[65]: Time 111.315659 seconds, bootstrap likelihood -12227317.335672, best rearrangement setting 11
+Bootstrap[66]: Time 262.120608 seconds, bootstrap likelihood -12194177.788530, best rearrangement setting 6
+Bootstrap[67]: Time 263.904194 seconds, bootstrap likelihood -12216500.744506, best rearrangement setting 8
+Bootstrap[68]: Time 267.785693 seconds, bootstrap likelihood -12198163.936276, best rearrangement setting 11
+Bootstrap[69]: Time 171.654758 seconds, bootstrap likelihood -12208979.220255, best rearrangement setting 7
+Bootstrap[70]: Time 349.270109 seconds, bootstrap likelihood -12213046.289635, best rearrangement setting 11
+Bootstrap[71]: Time 143.752271 seconds, bootstrap likelihood -12215481.262071, best rearrangement setting 6
+Bootstrap[72]: Time 147.691755 seconds, bootstrap likelihood -12226145.254132, best rearrangement setting 13
+Bootstrap[73]: Time 2030.649580 seconds, bootstrap likelihood -12191991.706920, best rearrangement setting 8
+Bootstrap[74]: Time 393.046291 seconds, bootstrap likelihood -12213502.450506, best rearrangement setting 13
+Bootstrap[75]: Time 382.754989 seconds, bootstrap likelihood -12191739.052662, best rearrangement setting 6
+Bootstrap[76]: Time 350.219441 seconds, bootstrap likelihood -12211900.923410, best rearrangement setting 6
+Bootstrap[77]: Time 300.482848 seconds, bootstrap likelihood -12194425.588132, best rearrangement setting 12
+Bootstrap[78]: Time 272.879551 seconds, bootstrap likelihood -12215265.517412, best rearrangement setting 10
+Bootstrap[79]: Time 279.307088 seconds, bootstrap likelihood -12218250.154280, best rearrangement setting 5
+Bootstrap[80]: Time 265.559203 seconds, bootstrap likelihood -12213258.286682, best rearrangement setting 13
+Bootstrap[81]: Time 109.944115 seconds, bootstrap likelihood -12207060.905835, best rearrangement setting 12
+Bootstrap[82]: Time 99.517465 seconds, bootstrap likelihood -12228697.378312, best rearrangement setting 8
+Bootstrap[83]: Time 94.966262 seconds, bootstrap likelihood -12211254.625113, best rearrangement setting 5
+Bootstrap[84]: Time 223.893571 seconds, bootstrap likelihood -12215878.726097, best rearrangement setting 6
+Bootstrap[85]: Time 218.666998 seconds, bootstrap likelihood -12199191.504256, best rearrangement setting 11
+Bootstrap[86]: Time 102.638087 seconds, bootstrap likelihood -12214901.882990, best rearrangement setting 15
+Bootstrap[87]: Time 237.235801 seconds, bootstrap likelihood -12216210.832246, best rearrangement setting 8
+Bootstrap[88]: Time 711.683239 seconds, bootstrap likelihood -12206964.508353, best rearrangement setting 15
+Bootstrap[89]: Time 225.194476 seconds, bootstrap likelihood -12216713.934766, best rearrangement setting 14
+Bootstrap[90]: Time 234.330229 seconds, bootstrap likelihood -12195232.376073, best rearrangement setting 8
+Bootstrap[91]: Time 103.289770 seconds, bootstrap likelihood -12218362.816770, best rearrangement setting 15
+Bootstrap[92]: Time 103.243526 seconds, bootstrap likelihood -12211230.055371, best rearrangement setting 6
+Bootstrap[93]: Time 234.396192 seconds, bootstrap likelihood -12208185.522749, best rearrangement setting 13
+Bootstrap[94]: Time 244.038353 seconds, bootstrap likelihood -12192516.799644, best rearrangement setting 7
+Bootstrap[95]: Time 101.028430 seconds, bootstrap likelihood -12207616.212968, best rearrangement setting 15
+Bootstrap[96]: Time 237.227989 seconds, bootstrap likelihood -12214981.090228, best rearrangement setting 8
+Bootstrap[97]: Time 242.337697 seconds, bootstrap likelihood -12203451.448325, best rearrangement setting 10
+Bootstrap[98]: Time 238.649323 seconds, bootstrap likelihood -12205076.953889, best rearrangement setting 8
+Bootstrap[99]: Time 234.252276 seconds, bootstrap likelihood -12204999.523085, best rearrangement setting 15
+
+
+Overall Time for 100 Rapid Bootstraps 24490.914784 seconds
+Average Time per Rapid Bootstrap 244.909148 seconds
+
+Starting ML Search ...
+
+Fast ML optimization finished
+
+Fast ML search Time: 14109.825853 seconds
+

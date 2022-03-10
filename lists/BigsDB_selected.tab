@@ -1,0 +1,277 @@
+id	isolate	aliases	country	year	disease	source	epidemiology	species	serogroup	genogroup	genogroup_notes	capsule_group	serotype	bioproject_accession	biosample_accession	ENA_run_accession	sender	strain_designation	Bact_rmlstc_20	Bact_rmlstc_10	Bact_rmlstc_5
+19940	CCUG 808	Berger NA10; CIP 72.15; NA10; NCTC 10212	Germany	1960		other		Neisseria animalis								ERR033100	8	ND: P1.ND,ND: F-ND: ST-ND (-)	5974	9789	14102
+30325	DSM 21642		USA	NA				Neisseria animaloris									342	ND: P1.ND,ND: F-ND: ST-ND (-)	7313	11493	16147
+21040	CCUG 50611	911*084/05; 956*007; 961*017/05; 962*037/05; Vax B-7128I/05	Sweden	2005	invasive (unspecified/other)	blood		Neisseria bacilliformis								ERR160786	8	ND: P1.ND,ND: F-ND: ST-10251 ()	222	589	886
+19077	CCUG 50858 T	ATCC BAA-1200; BennettTree51; MDA 2833	USA	2003	other	other		Neisseria bacilliformis								ERR033097	8	ND: P1.ND,ND: F-ND: ST-9330 ()	222	589	883
+21039	CCUG 38158	RSO 9705-02754	Sweden	1997	invasive (unspecified/other)	blood		Neisseria bacilliformis								ERR160727	8	ND: P1.ND,ND: F-ND: ST-ND (-)	244	649	1003
+21038	CCUG 30380		Sweden	1992		other		Neisseria bacilliformis								ERR160773	8	ND: P1.ND,ND: F-ND: ST-10250 ()	222	589	885
+46192	G97_1403		The Gambia	1997	carrier	throat swab	carrier	Neisseria basseii								ERR1674728	36	ND: P1.ND,ND: F5-4: ST-12608 ()	5893	9643	13855
+46193	G97_1402		The Gambia	1997	carrier	throat swab	carrier	Neisseria basseii								ERR1674729	36	ND: P1.ND,ND: F5-4: ST-12608 ()	5893	9643	13855
+44518	OX40911		UK [England]	2015	carrier	throat swab	carrier	Neisseria benedictiae	NG	cnl		cnl	NT			ERR1600478	161	cnl: P1.ND,ND: F4-5: ST-12152 ()	358	949	11382
+46411	M-091		Malawi	NA				Neisseria benedictiae								ERR107383	2	ND: P1.ND,ND: F1-109: ST-6215 ()	358	949	1534
+46412	M-092		Malawi	NA				Neisseria benedictiae								ERR107384	2	ND: P1.ND,ND: F1-109: ST-6215 ()	358	949	1534
+43037	02_13995_XS3_1		Mali	2012	carrier	throat swab		Neisseria bergeri								ERR1730435	271	ND: P1.ND,ND: F-ND: ST-12190 ()	357	9773	14050
+43039	01_13562_XS3_1		Mali	2012	carrier	throat swab		Neisseria bergeri								ERR1730437	271	ND: P1.ND,ND: F-ND: ST-12190 ()	357	9773	14050
+43422	01_03638_XS1_1		Mali	2010	carrier	throat swab		Neisseria bergeri								ERR1730407	271	ND: P1.ND,ND: F-ND: ST-12190 ()	357	9773	14050
+43432	02_01039_XS1_1		Mali	2010	carrier	throat swab		Neisseria bergeri								ERR1730433	271	ND: P1.ND,ND: F-ND: ST-12190 ()	357	9773	14050
+46421	M-129		Malawi	NA				Neisseria bergeri								ERR107393	2	ND: P1.ND,ND: F-ND: ST-6194 ()	357	950	1537
+43031	02_11346_XS2_1		Mali	2011	carrier	throat swab		Neisseria bergeri								ERR1730424	271	ND: P1.ND,ND: F-ND: ST-15697 ()	357	9773	14050
+43427	02_07958_XS1_1		Mali	2010	carrier	throat swab		Neisseria bergeri								ERR1730412	271	ND: P1.ND,ND: F-ND: ST-12190 ()	357	9773	14050
+43020	02_11069_XS2_1		Mali	2011	carrier	throat swab		Neisseria bergeri								ERR1730413	271	ND: P1.ND,ND: F-ND: ST-12190 ()	357	9773	14050
+43022	02_11161_XS2_1		Mali	2011	carrier	throat swab		Neisseria bergeri								ERR1730415	271	ND: P1.ND,ND: F-ND: ST-12190 ()	357	9773	14050
+43424	02_01070_XS1_1		Mali	2010	carrier	throat swab		Neisseria bergeri								ERR1730409	271	ND: P1.ND,ND: F-ND: ST-12190 ()	357	9773	14050
+43025	02_11253_XS2_1		Mali	2011	carrier	throat swab		Neisseria bergeri								ERR1730418	271	ND: P1.ND,ND: F11-1: ST-13229 ()	357	9773	14050
+43024	02_11164_XS2_1		Mali	2011	carrier	throat swab		Neisseria bergeri								ERR1730417	271	ND: P1.ND,ND: F-ND: ST-15694 ()	357	9773	14050
+46443	M-250		Malawi	NA				Neisseria bergeri								ERR107415	2	ND: P1.ND,ND: F7-2: ST-6183 ()	357	950	1537
+43421	01_00119_XS1_1		Mali	2010	carrier	throat swab		Neisseria bergeri								ERR1730406	271	ND: P1.ND,ND: F1-58: ST-15712 ()	357	9773	14050
+46452	M-290		Malawi	NA				Neisseria bergeri								ERR107425	2	ND: P1.ND,ND: F1-107: ST-6183 ()	357	950	1537
+46404	M-052		Malawi	NA				Neisseria bergeri								ERR107376	2	ND: P1.ND,ND: F1-48: ST-6279 ()	357	948	1533
+46400	M-037		Malawi	NA				Neisseria bergeri								ERR107372	2	ND: P1.ND,ND: F1-107: ST-6183 ()	357	950	1537
+46422	M-130		Malawi	NA				Neisseria bergeri								ERR107394	2	ND: P1.ND,ND: F2-24: ST-6194 ()	357	950	1537
+46450	M-274		Malawi	NA				Neisseria bergeri								ERR107423	2	ND: P1.ND,ND: F1-107: ST-6183 ()	357	950	1537
+43032	02_11474_XS2_1		Mali	2011	carrier	throat swab		Neisseria bergeri								ERR1730425	271	ND: P1.ND,ND: F-ND: ST-15697 ()	357	9773	14050
+46441	M-244		Malawi	NA				Neisseria blantyrii								ERR107413	2	ND: P1.ND,ND: F1-58: ST-6185 ()	356	947	1532
+46402	M-041		Malawi	NA				Neisseria blantyrii								ERR107374	2	ND: P1.ND,ND: F7-1: ST-6274 ()	356	947	1532
+46456	M-337		Malawi	NA				Neisseria blantyrii								ERR107429	2	ND: P1.ND,ND: F2-24: ST-6185 ()	356	947	1532
+46410	M-089		Malawi	NA				Neisseria blantyrii								ERR107382	2	ND: P1.ND,ND: F1-58: ST-6185 ()	356	947	1532
+46455	M-318		Malawi	NA				Neisseria blantyrii								ERR107428	2	ND: P1.ND,ND: F-ND: ST-6269 ()	356	947	1532
+46423	M-131		Malawi	NA				Neisseria blantyrii								ERR107395	2	ND: P1.ND,ND: F1-58: ST-6271 ()	356	947	1532
+46447	M-261		Malawi	NA				Neisseria blantyrii								ERR107420	2	ND: P1.ND,ND: F7-1: ST-6268 ()	356	947	1532
+46403	M-046		Malawi	NA				Neisseria blantyrii								ERR107375	2	ND: P1.ND,ND: F2-24: ST-6267 ()	356	947	1532
+46426	M-174		Malawi	NA				Neisseria blantyrii								ERR107398	2	ND: P1.ND,ND: F1-58: ST-6185 ()	356	947	1532
+46458	M-345		Malawi	NA				Neisseria blantyrii								ERR107431	2	ND: P1.ND,ND: F6-2: ST-6270 ()	356	947	1532
+46457	M-338		Malawi	NA				Neisseria blantyrii								ERR107430	2	ND: P1.ND,ND: F3-43: ST-6185 ()	356	947	1532
+46425	M-173		Malawi	NA				Neisseria blantyrii								ERR107397	2	ND: P1.ND,ND: F1-58: ST-6185 ()	356	947	1532
+46231	M_700M		Malawi	2006	carrier	throat swab	carrier	Neisseria blantyrii								ERR1674617	36	ND: P1.ND,ND: F-ND: ST-12400 ()	356	947	1532
+46435	M-216		Malawi	NA				Neisseria blantyrii								ERR107407	2	ND: P1.ND,ND: F1-58: ST-6185 ()	356	947	1532
+39716	LNP16983		France	1999				Neisseria canis									75	ND: P1.ND,ND: F-ND: ST-ND (-)	3201	6174	9776
+49340	CCUG 56775 T	ATCC 14687; BennettTree54; Berger H6; CIP 103347; DSM 18000; H6; LMG 8383; LMG 8386; NCTC 10296; tc 10296	Germany	1962		other		Neisseria canis								ERR160775	8	ND: P1.ND,ND: F-ND: ST-ND (-)	243	648	1002
+63431	M19 240441		UK	2019	carrier	throat swab	carrier	Neisseria cinerea	NG			NG				ERR3900344	161	NG: P1.ND,ND: F4-28: ST-16071 ()	27182	38694	50608
+63425	M19 240435		UK	2019	carrier	throat swab	carrier	Neisseria cinerea	NG			NG				ERR3900342	161	NG: P1.ND,ND: F5-1: ST-16069 ()	206	571	9777
+82630	ExNm726		Australia	NA				Neisseria cinerea									304	ND: P1.ND,ND: F-ND: ST-ND (-)			
+3416	OX9931913	Ox99_31913	UK	1999	carrier	throat swab	carrier	Neisseria cinerea	NG			NG	NT			ERR2214310	60	NG: P1.ND,ND: F1-131: ST-2469 (cc167)	7314	11498	21259
+39721	LNP981		France	1979				Neisseria cinerea									75	ND: P1.ND,ND: F5-1: ST-ND (-)	3204	6178	9781
+61451	M46212		USA	2018	meningitis			Neisseria cinerea									364	ND: P1.ND,ND: F1-89: ST-13787 ()			
+63433	M19 240443		UK	2019	carrier	throat swab	carrier	Neisseria cinerea	NG			NG				ERR3938490	161	NG: P1.ND,ND: F5-69: ST-ND (-)	27236	38763	50690
+38986	LNP23132		France	NA				Neisseria cinerea									75	ND: P1.ND,ND: F4-28: ST-15690 ()	3202	6176	9779
+36161	12040_2014		Ireland	2014	invasive (unspecified/other)			Neisseria cinerea	other			other				ERR976848	91	other: P1.ND,ND: F1-37: ST-11381 ()	5665	9096	13057
+44631	OX42181		UK [England]	2015	carrier	throat swab	carrier	Neisseria cinerea	NG	cnl		cnl	NT			ERR1863039	161	cnl: P1.ND,ND: F3-3: ST-12747 ()	5187	8554	12450
+700	31019101/3	Z6769	Mali	1991	carrier		endemic	Neisseria cinerea									33	ND: P1.ND,ND: F-ND: ST-63 ()			
+49341	CCUG 346 T	159/62; BennettTree28	Unknown	NA				Neisseria cinerea								ERR160740	8	ND: P1.ND,ND: F5-1: ST-9331 ()	206	571	864
+14731	ATCC 14685	BennettTree24; CCUG 2156; CIP 73.16; DSM 4630; LMG 8380; NCTC 10294	Unknown	NA				Neisseria cinerea									2	ND: P1.ND,ND: F5-1: ST-3579 ()	177	511	758
+50859	16-530		Sweden	2016				Neisseria cinerea									209	ND: P1.ND,ND: F5-12: ST-12552 ()	206	571	864
+701	200291001/6	Z6785	Mali	1991	carrier		endemic	Neisseria cinerea									33	ND: P1.ND,ND: F-ND: ST-64 ()			
+39724	LNP23872		France	2007				Neisseria cinerea									75	ND: P1.ND,ND: F1-131: ST-16011 ()	7314	11498	16164
+21041	CCUG 53043	911*465/06; 961*114/06; 962*135/06; BII-63507/06	Sweden	2006				Neisseria cinerea								ERR027250	8	ND: P1.ND,ND: F5-95: ST-10252 ()	225	592	888
+42062	LNP28272		France	2015	carrier			Neisseria cinerea									75	ND: P1.ND,ND: F5-69: ST-16019 ()	3214	6192	9797
+5214	LNP 415		Germany	1962	carrier			Neisseria cinerea									8	ND: P1.ND,ND: F-ND: ST-3579 ()			
+42462	M16 240153		UK	2016		sputum		Neisseria cinerea	NG			NG				ERR1389429	225	NG: P1.ND,ND: F1-19: ST-14288 ()	3183	6121	9666
+49345	CCUG 53898	ATCC 700276; BennettTree53; CIP 106968; Dent SHI/3848; V33	Unknown	NA		other		Neisseria dentiae								ERR160774	8	ND: P1.ND,ND: F12-1: ST-9335 ()	5666	9097	13058
+57256	LNP29531		France	2017	invasive (unspecified/other)			Neisseria elongata									75	ND: P1.ND,4-36: F-ND: ST-ND (-)	16138	23228	30464
+21042	CCUG 4554	Berger 180; Bovre 27	Unknown	NA		throat swab		Neisseria elongata								ERR026522	8	ND: P1.ND,ND: F-ND: ST-10253 ()	216	583	877
+20516	CCUG 2043T	ATCC 25295; BOVRE M2; CCUG 2130 A; CIP 72.27; DSM 17712; Holten M2; LMG 5124; M2; NCTC 10660	Unknown	NA	other	throat swab		Neisseria elongata subsp. elongata								ERR033101	8	ND: P1.ND,4-36: F-ND: ST-9906 ()	229	596	892
+14740	ATCC 29315	ATCC 29315; BennettTree52; CCUG 6508; CIP 82.85; NCTC 11050	Unknown	NA				Neisseria elongata subsp. glycolytica									2	ND: P1.ND,4-36: F-ND: ST-ND (-)			
+20515	CCUG 30802T	ATCC 49377; B1019; B109; CIP 103511; NCTC 12736	USA	NA	other	blood		Neisseria elongata subsp. nitroreducens								ERR033105	8	ND: P1.ND,ND: F-ND: ST-9905 ()	3207	6182	9785
+91511	CNF	SAMN03329021	Italy	2013		throat swab		Neisseria flavescens									304	ND: P1.ND,ND: F6-1: ST-14857 ()	5678	9110	13074
+9021	B05BR000322	05BR322	USA	2005	invasive (unspecified/other)	other		Neisseria flavescens									8	ND: P1.ND,ND: F-ND: ST-6172 ()			
+5211	LNP 414		USA	1930	carrier			Neisseria flavescens									8	ND: P1.ND,ND: F-ND: ST-3576 ()			
+48010	SRR3349875		UK [England]	2012				Neisseria gonorrhoeae								SRR3349875	264	ND: P1.18-10,43: F3-14: ST-9362 ()	167	503	747
+106862	ERR3577525		UK	2015			MSM	Neisseria gonorrhoeae						PRJEB19989		ERR3577525	206	ND: P1.18-10,43: F4-7: ST-1583 ()	167	503	747
+79198	LRRBGS_0324		USA	2016				Neisseria gonorrhoeae						PRJNA329501		SRR8079754	206	ND: P1.18-10,43: F3-14: ST-9363 ()	167	503	747
+31724	IN_10_1832	10625_6_79	India	2010				Neisseria gonorrhoeae	NG			NG				ERR363654	206	NG: P1.18-10,43: F5-24: ST-11204 ()	167	503	747
+79002	VNM16-73		Vietnam	2016				Neisseria gonorrhoeae						PRJEB34425		ERR3623464	206	ND: P1.18-10,43: F4-7: ST-1588 ()	167	503	747
+86590	AUSMDU00004493	NZ2015-69	New Zealand	2014				Neisseria gonorrhoeae						PRJNA394216		SRR5827126	206	ND: P1.18-10,43: F-ND: ST-7359 ()	167	503	747
+61682	FC438	SAMD00099415	Japan	2015				Neisseria gonorrhoeae								DRR124703	264	ND: P1.18-10,43: F1-26: ST-1594 ()	167	503	747
+82235	GCGS0278	03AZI_C_004	USA	2003			MSM	Neisseria gonorrhoeae						PRJEB7904	SAMEA3462909	ERR1067843	206	ND: P1.18-10,43: F3-14: ST-1901 ()	167	503	747
+109830	ERR3200905		USA	2013			MSW	Neisseria gonorrhoeae						PRJEB10016		ERR3200905	206	ND: P1.18-10,43: F1-26: ST-1594 ()	167	503	747
+72556	GCWGS-8050		USA	2018		urethral swab		Neisseria gonorrhoeae									614	ND: P1.ND,ND: F-ND: ST-15222 ()			
+55960	HN024	NG375	China	NA				Neisseria gonorrhoeae									429	ND: P1.ND,ND: F-ND: ST-7827 ()			
+56017	JS670	NG434	China	NA				Neisseria gonorrhoeae									429	ND: P1.ND,ND: F-ND: ST-7827 ()			
+47515	SRR3343647		UK [England]	2013				Neisseria gonorrhoeae								SRR3343647	264	ND: P1.18-10,43: F1-27: ST-1579 ()	167	503	747
+107270	ERR3577973		UK	2016			MSW	Neisseria gonorrhoeae						PRJEB19989		ERR3577973	206	ND: P1.18-10,43: F3-14: ST-7363 ()	167	503	747
+48127	SRR3349992		UK [England]	2011				Neisseria gonorrhoeae								SRR3349992	264	ND: P1.18-10,43: F1-211: ST-7360 ()	167	503	747
+47740	SRR3349341		UK [England]	2013				Neisseria gonorrhoeae								SRR3349341	264	ND: P1.18-10,43: F4-7: ST-8122 ()	167	503	8197
+48978	SRR3361029		UK [England]	2012				Neisseria gonorrhoeae								SRR3361029	264	ND: P1.18-10,43: F3-14: ST-11999 ()	167	503	747
+61068	601479		Norway	2017		urethral swab		Neisseria gonorrhoeae						PRJEB32435	SAMEA5609087	ERR3326060	477	ND: P1.18-10,43: F5-24: ST-11516 ()	167	503	747
+109857	ERR3201280		USA	2013			MSW	Neisseria gonorrhoeae						PRJEB10016		ERR3201280	206	ND: P1.18-10,43: F3-14: ST-8139 ()	167	503	747
+56185	573567		Norway	2017		throat swab		Neisseria gonorrhoeae						PRJEB32435	SAMEA5608762	ERR3325736	351	ND: P1.18-10,43: F4-7: ST-11428 ()	167	503	747
+83696	ATCC 51483	GCA_003013245.1	USA	1994				Neisseria iguanae									236	ND: P1.ND,ND: F-ND: ST-ND (-)	15943	22930	30009
+36959	Y313		UK	2015		throat swab		Neisseria lactamica								ERR957461	318	ND: P1.ND,ND: F4-8: ST-3493 (cc613)	196	925	1484
+49734	CM40397		UK [England]	2015	carrier	throat swab	carrier	Neisseria lactamica	NG	cnl		cnl				ERR1771026	161	cnl: P1.ND,ND: F5-18: ST-12658 ()	196	564	9643
+857	271	beta 271	Germany	2000	carrier		carrier	Neisseria lactamica									8	ND: P1.ND,ND: F-ND: ST-1615 ()			
+17767	beta-270		Germany	2000	carrier	throat swab		Neisseria lactamica									47	ND: P1.ND,ND: F-ND: ST-ND (-)			
+36186	M43.1		Ireland	2013	carrier			Neisseria lactamica								ERR976890	91	ND: P1.ND,ND: F5-43: ST-10984 (cc640)	168	6086	9562
+8918	039-04		UK [England]	1997	carrier	throat swab	carrier	Neisseria lactamica									8	ND: P1.ND,ND: F1-33: ST-582 ()			
+2562	3459/71		Czech Republic	1971	carrier		carrier	Neisseria lactamica									67	ND: P1.ND,ND: F-ND: ST-1546 (cc1540)			
+82615	ExNm705		Australia	NA				Neisseria lactamica									304	ND: P1.ND,ND: F-ND: ST-15736 ()	196	45280	59724
+36872	S118		UK	2015		throat swab		Neisseria lactamica								ERR957478	318	ND: P1.ND,ND: F-ND: ST-14279 ()	196	6083	9559
+44506	OX40810		UK [England]	2015	carrier	throat swab	carrier	Neisseria lactamica	NG	cnl		cnl	NT			ERR1600493	161	cnl: P1.ND,ND: F1-25: ST-12171 ()	196	556	11371
+36988	CC38		UK	2015		throat swab		Neisseria lactamica								ERR957519	318	ND: P1.ND,ND: F4-8: ST-3493 (cc613)	196	925	1484
+21514	8064		France	NA				Neisseria lactamica									8	ND: P1.ND,ND: F-ND: ST-613 (cc613)			
+18808	DL7739		Burkina Faso	2009	carrier	throat swab	carrier	Neisseria lactamica									217	ND: P1.ND,ND: F-ND: ST-9140 ()			
+2569	3646/71		Czech Republic	1971	carrier		carrier	Neisseria lactamica									67	ND: P1.ND,ND: F-ND: ST-1553 (cc1540)			
+36954	Y221		UK	2015		throat swab		Neisseria lactamica								ERR957451	318	ND: P1.ND,ND: F4-8: ST-3493 (cc613)	196	925	1484
+15880	1-075-S1		Mali	2009	carrier	throat swab	carrier	Neisseria lactamica									8	ND: P1.ND,ND: F-ND: ST-8484 ()			
+88827	M37170		Brazil	2014	carrier	throat swab		Neisseria lactamica									364	ND: P1.ND,ND: F5-92: ST-613 (cc613)	196	562	1531
+60881	BRI013	BR42819	UK	2017	carrier			Neisseria lactamica	NG	cnl		cnl				ERR2619529	206	cnl: P1.ND,ND: F-ND: ST-13743 ()	191	9759	13864
+50169	WG41063		UK [England]	2015	carrier	throat swab	carrier	Neisseria lactamica	NG	cnl		cnl				ERR1770989	161	cnl: P1.ND,ND: F5-17: ST-11854 (cc1494)	196	564	15220
+9094	831		Malawi	NA				Neisseria lactamica									8	ND: P1.ND,ND: F-ND: ST-6234 ()			
+61452	M46213		USA	2018	meningitis	throat swab		Neisseria macacae									364	ND: P1.ND,ND: F-ND: ST-13788 ()			
+43425	02_01105_XS1_1		Mali	2010	carrier	throat swab		Neisseria maigaei								ERR1730410	271	ND: P1.ND,ND: F6-2: ST-15713 ()	6106	9940	14275
+42016	EMn044	ECVESMn044	South Korea	2015	carrier	throat swab	carrier	Neisseria meningitidis	B			B					348	B: P1.ND,ND: F-ND: ST-11949 ()			
+92767	Nm_21-18		Portugal	2018	septicaemia	blood	sporadic case	Neisseria meningitidis		B		B					110	B: P1.18,25-61: F1-5: ST-414 (cc41/44)	169	476	698
+1659	0297/93		Czech Republic	1993	carrier	throat swab	carrier	Neisseria meningitidis	C	C	C backbone: All essential capsule genes intact and present. Prediction code: https://github.com/ntopaz/characterize_neisseria_capsule.	C	4			ERR137137	5	C: P1.18-1,34: F1-9: ST-101 ()	169	476	698
+38926	P88		Italy	2013	carrier	throat swab	carrier	Neisseria meningitidis	NG	cnl		cnl					280	cnl: P1.18,25-1: F5-5: ST-10775 (cc198)	169	519	900
+91974	2132/10		Poland	2010	meningitis and septicaemia	CSF		Neisseria meningitidis	B			B					187	B: P1.7-2,13-1: F5-8: ST-1001 (cc18)			
+6663	20473		Ireland	2001	carrier	throat swab	carrier	Neisseria meningitidis									93	ND: P1.ND,ND: F-ND: ST-4731 ()			
+84884	DE13752		Germany	2016	septicaemia	blood	sporadic case	Neisseria meningitidis	W		Script failed to predict genogroup with high confidence. Prediction code: https://github.com/ntopaz/characterize_neisseria_capsule.	W					52	W: P1.5,2: F3-27: ST-11 (cc11)	169	475	696
+85767	P4352		Brazil	2013				Neisseria meningitidis	C			C					465	C: P1.22,14-6: F1-1: ST-13601 ()			
+75065	DE14525		Germany	2019	invasive (unspecified/other)	blood	sporadic case	Neisseria meningitidis	B	B	B backbone: csb fragmented (19.75% cov),csb fragmented (77.91% cov). Prediction code: https://github.com/ntopaz/characterize_neisseria_capsule.	B					52	B: P1.7-2,4: F1-5: ST-42 (cc41/44)	169	476	698
+38030	M15 240321		UK [England]	2015	invasive (unspecified/other)			Neisseria meningitidis	B	B		B				ERR985955	225	B: P1.22,9: F5-12: ST-8616 (cc269)	169	495	731
+99865	20755		Spain	2013	meningitis and septicaemia	blood		Neisseria meningitidis	B			B					135	B: P1.22,14: F5-5: ST-ND (-)			
+6749	82-13114		UK [Scotland]	1982	invasive (unspecified/other)	CSF		Neisseria meningitidis	B			B	NT				78	B: P1.ND,ND: F-ND: ST-4816 (cc8)			
+61175	NmissMEN20		Italy	2016	carrier			Neisseria meningitidis		NG	Unclear backbone: Capsule genes present shared across multiple SGs. Prediction code: https://github.com/ntopaz/characterize_neisseria_capsule.	NG					295	NG: P1.19-1,13-9: F1-8: ST-13568 ()	169	23223	30448
+11708	16539		Spain	2004	meningitis	CSF		Neisseria meningitidis	B			B	14				135	B: P1.5-1,2-2: F-ND: ST-7009 (cc60)			
+3011	68843		USA	NA	carrier			Neisseria meningitidis									3	ND: P1.ND,ND: F-ND: ST-2047 (cc198)			
+30738	IE13Nm44	2013/M64	Ireland	2013	invasive (unspecified/other)	blood		Neisseria meningitidis	B	B		B				ERR654792	91	B: P1.22,14: F3-7: ST-1194 (cc41/44)	169	476	698
+29667	M00 241657		UK	2000				Neisseria meningitidis	C	C	C backbone: All essential capsule genes intact and present. Prediction code: https://github.com/ntopaz/characterize_neisseria_capsule.	C				ERR558057	225	C: P1.5-1,10-8: F3-6: ST-11 (cc11)	169	475	695
+7405	3737		Poland	1998	carrier	throat swab	healthy contact	Neisseria meningitidis									112	ND: P1.ND,ND: F-ND: ST-5299 ()			
+23807	FRLNP17418		France	2000	invasive (unspecified/other)			Neisseria meningitidis									91	ND: P1.5,2: F1-7: ST-1940 (cc60)			
+4127	MD01384		USA	2001	meningitis	blood	sporadic case	Neisseria meningitidis	C			C					80	C: P1.5,2: F-ND: ST-2961 (cc11)			
+82617	ExNm708		Australia	NA				Neisseria mucosa									304	ND: P1.ND,ND: F-ND: ST-16480 ()	31378	45286	59750
+38977	LNP17862		France	NA				Neisseria mucosa									75	ND: P1.ND,ND: F5-19: ST-16006 ()			
+49355	CCUG 32112	BennettTree43; LNP 12897	Sweden	1993	invasive (unspecified/other)	blood		Neisseria mucosa								ERR160725	8	ND: P1.ND,ND: F5-19: ST-12048 ()	240	645	999
+21061	CCUG 17327		Sweden	1985				Neisseria mucosa									8	ND: P1.ND,ND: F5-19: ST-10150 ()	213	580	874
+82619	ExNm711		Australia	NA				Neisseria mucosa									304	ND: P1.ND,ND: F-ND: ST-16482 ()	31379	45287	59751
+45355	LNP28655		France	2016	carrier			Neisseria mucosa									75	ND: P1.ND,ND: F5-19: ST-16036 ()			
+46270	919_NLAC		USA	NA		other		Neisseria mucosa									271	ND: P1.ND,ND: F-ND: ST-15717 ()	6230	10169	14623
+21043	CCUG 26474	CIP 5956; Fleming 6; ITM 3378; NCTC 4591	UK [England]	NA		throat swab		Neisseria mucosa								ERR033103	8	ND: P1.ND,ND: F-ND: ST-10254 ()	224	591	887
+49361	CCUG 24847	BennettTree49; Riou N7939	Unknown	NA				Neisseria mucosa								ERR160735	8	ND: P1.ND,ND: F5-19: ST-ND (-)	208	573	867
+21517	LNP 405		Unknown	NA				Neisseria mucosa									8	ND: P1.ND,ND: F-ND: ST-3706 ()			
+46114	LNP28729		France	2016	invasive (unspecified/other)			Neisseria mucosa									75	ND: P1.ND,ND: F5-19: ST-16037 ()	7319	11507	16181
+26577	GT4A_CT1		Unknown	NA				Neisseria mucosa									8	ND: P1.ND,ND: F-ND: ST-10462 ()	350	928	1494
+49351	CCUG 41451 T	ATCC 33926; BennettTree46; CIP 103346; M-740; Vedros M740	Unknown	NA	carrier	other	carrier	Neisseria mucosa								ERR160760	8	ND: P1.ND,ND: F-ND: ST-9339 ()	201	566	859
+5204	ATCC 19243	19243; CCUG 26468; CIP 73.12; ITM 3392; M.J.Pelczar N15	USA	1973	carrier			Neisseria mucosa									8	ND: P1.ND,ND: F-ND: ST-3569 ()	226	593	889
+38974	LNP16475		France	NA				Neisseria mucosa									75	ND: P1.ND,ND: F-ND: ST-14286 ()	3209	6185	9790
+49354	CCUG 32036	BennettTree44; LNP 12896	Sweden	1993	carrier	other	carrier	Neisseria mucosa								ERR160733	8	ND: P1.ND,ND: F-ND: ST-12047 ()	245	650	1004
+2863	ATCC 29256	BennettTree45; CCUG 23929; CCUG 24959; CIP 103345; LMG 5290; NRL 30,016	Unknown	NA				Neisseria mucosa									2	ND: P1.ND,ND: F-ND: ST-8081 ()			
+111346	SC13		Unknown	2021	other			Neisseria mucosa	other			other				ERR8015125	356	other: P1.ND,ND: F5-19: ST-ND (-)	35371	51279	67681
+5198	9297	NRL9297	Unknown	NA	carrier			Neisseria mucosa									8	ND: P1.ND,ND: F-ND: ST-3563 ()			
+5205	0054/92		Czech Republic	1992	carrier			Neisseria mucosa									8	ND: P1.ND,ND: F-ND: ST-3570 ()			
+29526	AP2138		USA	2014				Neisseria musculi								ERR1829152	278	ND: P1.ND,ND: F15-1: ST-11088 ()	3192	6164	9765
+29528	AP2145		USA	2014				Neisseria musculi								ERR1829154	278	ND: P1.ND,ND: F15-1: ST-11088 ()	3192	6164	9765
+29522	AP2091		USA	2014				Neisseria musculi								ERR1829149	278	ND: P1.ND,ND: F15-1: ST-11088 ()	3192	6164	9765
+29523	AP2098		USA	2014				Neisseria musculi								ERR1829150	278	ND: P1.ND,ND: F15-1: ST-11088 ()	3192	6164	9765
+29527	AP2142		USA	2014				Neisseria musculi								ERR1829153	278	ND: P1.ND,ND: F15-1: ST-11088 ()	3192	6164	9765
+29525	AP2131		USA	2014				Neisseria musculi								ERR1829151	278	ND: P1.ND,ND: F15-1: ST-11088 ()	3192	6164	9765
+29520	AP2031		USA	2014		other		Neisseria musculi								ERR1121178	278	ND: P1.ND,ND: F15-1: ST-11088 ()	3192	6164	9765
+29521	AP2089		USA	2014				Neisseria musculi								ERR1829148	278	ND: P1.ND,ND: F15-1: ST-11088 ()	3192	6164	9765
+21044	F0314	11-24509; oral taxon 014	USA	1982		other		Neisseria oralis									8	ND: P1.ND,ND: F-ND: ST-10248 ()	227	594	890
+42055	LNP28051		France	2015	invasive (unspecified/other)			Neisseria oralis									75	ND: P1.ND,ND: F-ND: ST-15693 ()	5667	9098	13061
+21045	CCUG 10421		Sweden	1980		other		Neisseria oralis								ERR160731	8	ND: P1.ND,ND: F-ND: ST-10255 ()	220	587	881
+82625	ExNm717		Australia	NA				Neisseria oralis									304	ND: P1.ND,ND: F-ND: ST-15740 ()	31380	45288	59752
+21046	CCUG 804	Berger M33	Unknown	NA		other		Neisseria oralis								ERR160754	8	ND: P1.ND,ND: F-ND: ST-10256 ()	221	588	882
+19091	CCUG 26878 T	ATCC 25999; BennettTree50; Berger M3; CIP 73 14; NCTC 10777	Unknown	NA	carrier	other	carrier	Neisseria oralis								ERR027246	8	ND: P1.ND,ND: F-ND: ST-ND (-)	241	646	1000
+20541	1942b		Tunisia	NA				Neisseria perflava									245	ND: P1.ND,ND: F-ND: ST-9925 ()			
+18639	26308		France	2011	invasive (unspecified/other)	blood		Neisseria perflava									128	ND: P1.ND,ND: F-ND: ST-ND (-)			
+20542	4899a		Tunisia	NA				Neisseria perflava									245	ND: P1.ND,ND: F-ND: ST-9926 ()			
+82632	ExNm728		Australia	NA				Neisseria perflava									304	ND: P1.ND,ND: F-ND: ST-ND (-)			
+18171	26006		France	2010	invasive (unspecified/other)	blood		Neisseria polysaccharea									128	ND: P1.ND,ND: F1-7: ST-ND (-)			
+36167	12046_2014		Ireland	2014	carrier			Neisseria polysaccharea	other			other				ERR976854	91	other: P1.ND,ND: F1-34: ST-11382 ()	3177	6090	9572
+46200	G97_1061		The Gambia	1997	carrier	throat swab	carrier	Neisseria polysaccharea								ERR1674736	36	ND: P1.ND,ND: F-ND: ST-12613 ()	176	9641	13853
+36148	12024_2014		Ireland	2014	carrier			Neisseria polysaccharea	other			other				ERR976838	91	other: P1.ND,ND: F3-18: ST-11376 ()	3181	6118	9669
+42468	M16 240183		UK	2016		other		Neisseria polysaccharea	NG			NG				ERR1389457	225	NG: P1.ND,ND: F1-22: ST-3574 ()	212	579	873
+21521	P6-A		UK	NA				Neisseria polysaccharea									8	ND: P1.ND,ND: F-ND: ST-3557 ()			
+38981	LNP24574		France	NA				Neisseria polysaccharea									75	ND: P1.ND,ND: F5-36,F7-3: ST-16007 ()	176	6188	9793
+55167	2141506		The Netherlands	2014		other		Neisseria polysaccharea	NG			NG					19	NG: P1.ND,ND: F6-4: ST-13591 ()	27235	26584	34366
+44655	52189		South Africa	2017	invasive (unspecified/other)	other	sporadic case	Neisseria polysaccharea									470	ND: P1.ND,ND: F1-80: ST-14293 ()	212	579	39096
+53400	M17 240155		Unknown	NA				Neisseria polysaccharea								ERR1994730	225	ND: P1.ND,ND: F1-89: ST-14298 ()	7356	11613	16331
+82539	P206414321C		Australia	2020				Neisseria polysaccharea									525	ND: P1.ND,ND: F1-68: ST-3574 ()	212	579	873
+46196	G97_1162		The Gambia	1997	carrier	throat swab	carrier	Neisseria polysaccharea								ERR1674732	36	ND: P1.ND,ND: F4-5: ST-12591 ()	5892	9642	13854
+5216	P7-A		France	NA	carrier			Neisseria polysaccharea									8	ND: P1.ND,ND: F-ND: ST-3581 ()			
+43335	01_00098_XS1_1		Mali	2010	carrier	throat swab		Neisseria polysaccharea								ERR1604112	271	ND: P1.ND,ND: F1-3: ST-15705 ()	5892	9642	13854
+44630	OX42150		UK [England]	2015	carrier	throat swab	carrier	Neisseria polysaccharea	NG	cnl		cnl	NT			ERR1863036	161	cnl: P1.ND,ND: F7-3: ST-12746 ()	176	6187	12482
+46475	M-856		Malawi	NA				Neisseria polysaccharea								ERR107448	2	ND: P1.ND,ND: F7-1: ST-6284 ()	176	954	1541
+46467	M-571		Malawi	NA				Neisseria polysaccharea								ERR107440	2	ND: P1.ND,ND: F5-95: ST-6260 ()	176	954	1541
+44102	BR40761B	BR40761 B	UK [England]	2014	carrier	throat swab	carrier	Neisseria polysaccharea	NG	NG		NG	NT			ERR1517398	161	NG: P1.ND,ND: F1-112: ST-12375 ()	176	8568	12481
+46186	G97_1651		The Gambia	1997	carrier	throat swab	carrier	Neisseria polysaccharea								ERR1674722	36	ND: P1.ND,ND: F1-72: ST-12591 ()	5892	9642	13854
+46428	M-198		Malawi	NA				Neisseria polysaccharea								ERR107400	2	ND: P1.ND,ND: F1-7: ST-6195 ()	176	954	1541
+21048	871		Unknown	NA				Neisseria shayeganii									8	ND: P1.ND,2-59: F-ND: ST-ND (-)	3211	6189	9794
+18646	26332		France	2011	invasive (unspecified/other)	blood		Neisseria sicca									128	ND: P1.ND,ND: F-ND: ST-ND (-)			
+14002	20434		France	2003		other		Neisseria sicca									75	ND: P1.ND,ND: F-ND: ST-ND (-)			
+9039	64		Malawi	NA				Neisseria sp.									8	ND: P1.ND,ND: F-ND: ST-6179 ()			
+9118	95		Malawi	NA				Neisseria sp.									8	ND: P1.ND,ND: F-ND: ST-6258 ()			
+40200	4725		USA	2010				Neisseria sp.									342	ND: P1.ND,ND: F-ND: ST-ND (-)	2808	5419	8522
+21062	CCUG 21444	OMGS 0370	Sweden	1987				Neisseria sp.									8	ND: P1.ND,ND: F-ND: ST-10151 ()	223	590	884
+9128	261		Malawi	NA				Neisseria sp.									8	ND: P1.ND,ND: F-ND: ST-6268 ()			
+39720	LNP25410		France	2009				Neisseria sp.									75	ND: P1.ND,ND: F-ND: ST-ND (-)			
+34477	12017/14		Ireland	2014	invasive (unspecified/other)	blood		Neisseria sp.									166	ND: P1.ND,ND: F-ND: ST-ND (-)			
+9129	318		Malawi	NA				Neisseria sp.									8	ND: P1.ND,ND: F-ND: ST-6269 ()			
+57286	N.177/16		Brazil	2016	invasive (unspecified/other)		sporadic case	Neisseria sp.									236	ND: P1.ND,ND: F-ND: ST-ND (-)	11141	15951	21164
+5210	NP7		Spain	NA	carrier			Neisseria sp.									8	ND: P1.ND,ND: F-ND: ST-3575 ()			
+95638	IE21Nm045	72245200	Ireland	2021		eye		Neisseria sp.								ERR8007522	93	ND: P1.18-10,43: F4-7: ST-1580 ()	167	503	747
+9076	212A		Malawi	NA				Neisseria sp.									8	ND: P1.ND,ND: F-ND: ST-6216 ()			
+9043	760		Malawi	NA				Neisseria sp.									8	ND: P1.ND,ND: F-ND: ST-6183 ()			
+9122	211		Malawi	NA				Neisseria sp.									8	ND: P1.ND,ND: F-ND: ST-6262 ()			
+40201	4861		USA	2012		sputum		Neisseria sp.									342	ND: P1.ND,ND: F-ND: ST-ND (-)			
+9145	672M		Malawi	NA				Neisseria sp.									8	ND: P1.ND,ND: F-ND: ST-6285 ()			
+34479	12040/14		Ireland	2014				Neisseria sp.									166	ND: P1.ND,ND: F-ND: ST-ND (-)			
+72035	SMG-20-140		UK [Scotland]	2020	other	other		Neisseria sp.									83	ND: P1.ND,ND: F4-24: ST-16087 ()	27165	38663	50550
+9133	262		Malawi	NA				Neisseria sp.									8	ND: P1.ND,ND: F-ND: ST-6273 ()			
+56407	DSM 103441T		China	2015		other		Neisseria sp.									415	ND: P1.ND,ND: F-ND: ST-ND (-)	11137	15947	21156
+84263	Nei437		China	2014	carrier	throat swab	carrier	Neisseria subflava								ERR3623519	234	ND: P1.ND,ND: F1-7: ST-14793 ()			
+38976	LNP17345		France	NA				Neisseria subflava									75	ND: P1.ND,ND: F6-1: ST-16005 ()	210	575	869
+38979	LNP19085		France	NA				Neisseria subflava									75	ND: P1.ND,ND: F5-19: ST-15689 ()			
+49366	CCUG 24960	ATCC 49277; BennettTree41; NRL 30, 017	Unknown	NA				Neisseria subflava								ERR160748	8	ND: P1.ND,ND: F6-8: ST-9344 ()	217	584	878
+46269	595_NLAC		USA	NA		other		Neisseria subflava									271	ND: P1.ND,ND: F5-19: ST-16040 ()	6229	10168	14622
+28340	20140227-61		Australia	2012	septicaemia	blood	sporadic case	Neisseria subflava									214	ND: P1.ND,ND: F-ND: ST-ND (-)			
+5206	NP4		Spain	NA	carrier			Neisseria subflava									8	ND: P1.ND,ND: F-ND: ST-3571 ()			
+43794	BR41470		UK [England]	2015	carrier	throat swab	carrier	Neisseria subflava	NG	L		L	NT			ERR1447305	161	L: P1.ND,ND: F-ND: ST-12151 ()	353	938	11385
+43741	BR40608		UK [England]	2014	carrier	throat swab	carrier	Neisseria subflava	NG	L		L	NT			ERR1447169	161	L: P1.ND,ND: F-ND: ST-12145 ()	4352	7580	11354
+49365	CCUG 801	BennettTree36; Berger 208	Unknown	NA				Neisseria subflava								ERR160763	8	ND: P1.ND,ND: F5-19: ST-9343 ()	203	568	861
+49347	CCUG 29761	BennettTree38; HS:B9201468; LNP 12899	Sweden	1992		other		Neisseria subflava								ERR160728	8	ND: P1.ND,ND: F6-5: ST-9337 ()	211	578	872
+49863	PL40548		UK [England]	2015	carrier	throat swab	carrier	Neisseria subflava	NG	NG		NG				ERR1761802	161	NG: P1.ND,ND: F-ND: ST-12674 ()	6399	10419	14973
+43570	BR40103		UK [England]	2014	carrier	throat swab	carrier	Neisseria subflava	NG	L		L	NT			ERR1447122	161	L: P1.ND,ND: F-ND: ST-12140 ()	180	538	810
+14732	NRL30031	BennettTree31; H210	Unknown	NA				Neisseria subflava									2	ND: P1.ND,ND: F3-11: ST-3576 ()	178	512	760
+39722	LNP26332		France	2011				Neisseria subflava									75	ND: P1.ND,ND: F-ND: ST-16009 ()	5668	9100	13063
+61329	20925-23		UK [England]	2018	carrier	other	carrier	Neisseria subflava									432	ND: P1.ND,ND: F6-1: ST-14301 ()	3200	6172	9774
+5200	0523/93		Czech Republic	1993	carrier			Neisseria subflava									8	ND: P1.ND,ND: F-ND: ST-3565 ()			
+44616	OX42006		UK [England]	2015	carrier	throat swab	carrier	Neisseria subflava	NG	L		L	NT			ERR1771243	161	L: P1.ND,ND: F-ND: ST-12595 ()	180	8570	12485
+44615	OX42005		UK [England]	2015	carrier	throat swab	carrier	Neisseria subflava	NG	L		L	NT			ERR1771241	161	L: P1.ND,ND: F-ND: ST-12594 ()	353	938	11385
+28339	20140227-57		Australia	2005	septicaemia	blood	sporadic case	Neisseria subflava									214	ND: P1.ND,ND: F-ND: ST-ND (-)			
+43130	12_14141_XS2_1		Chad	2011	carrier	throat swab		Neisseria uirgultaei								ERR1730444	271	ND: P1.ND,ND: F11-8: ST-16022 ()	6108	9947	14296
+43128	12_12795_XS2_1		Chad	2011	carrier	throat swab		Neisseria uirgultaei								ERR1730442	271	ND: P1.ND,ND: F11-8: ST-16022 ()	6108	9947	14296
+43136	12_14600_XS2_1		Chad	2011	carrier	throat swab		Neisseria uirgultaei								ERR1730450	271	ND: P1.ND,ND: F11-8: ST-16022 ()	6108	9947	14296
+43132	12_13996_XS2_1		Chad	2011	carrier	throat swab		Neisseria uirgultaei								ERR1730446	271	ND: P1.ND,ND: F11-8: ST-16026 ()	6108	9947	14296
+43131	12_23282_XS3_1		Chad	2011	carrier	throat swab		Neisseria uirgultaei								ERR1730445	271	ND: P1.ND,ND: F11-8: ST-16022 ()	6108	9947	14296
+43129	12_13955_XS2_1		Chad	2011	carrier	throat swab		Neisseria uirgultaei								ERR1730443	271	ND: P1.ND,ND: F11-8: ST-16022 ()	6108	9947	14296
+43135	12_17465_XS2_1		Chad	2011	carrier	throat swab		Neisseria uirgultaei								ERR1730449	271	ND: P1.ND,ND: F1-31: ST-16022 ()	6108	9947	14296
+43134	12_13988_XS2_1		Chad	2011	carrier	throat swab		Neisseria uirgultaei								ERR1730448	271	ND: P1.ND,ND: F11-8: ST-16026 ()	6108	9947	14296
+43133	12_13835_XS2_1		Chad	2011	carrier	throat swab		Neisseria uirgultaei								ERR1730447	271	ND: P1.ND,ND: F11-8: ST-16022 ()	6108	9947	14296
+46478	M-879		Malawi	NA				Neisseria viridiae								ERR107451	2	ND: P1.ND,ND: F-ND: ST-6179 ()	359	951	1536
+46472	M-786		Malawi	NA				Neisseria viridiae								ERR107445	2	ND: P1.ND,ND: F-ND: ST-6179 ()	359	951	1536
+46405	M-064		Malawi	NA				Neisseria viridiae								ERR107377	2	ND: P1.ND,ND: F-ND: ST-6179 ()	359	951	1536
+46463	M-448		Malawi	NA				Neisseria viridiae								ERR107436	2	ND: P1.ND,ND: F-ND: ST-6264 ()	359	951	1536
+46432	M-211		Malawi	NA				Neisseria viridiae								ERR107404	2	ND: P1.ND,ND: F-ND: ST-6179 ()	359	951	1536
+46439	M-226		Malawi	NA				Neisseria viridiae								ERR107411	2	ND: P1.ND,ND: F-ND: ST-6179 ()	359	951	1536
+46465	M-457		Malawi	NA				Neisseria viridiae								ERR107438	2	ND: P1.ND,ND: F-ND: ST-6265 ()	359	951	1536
+46442	M-249		Malawi	NA				Neisseria viridiae								ERR107414	2	ND: P1.ND,ND: F-ND: ST-6179 ()	359	951	1536
+46476	M-872		Malawi	NA				Neisseria viridiae								ERR107449	2	ND: P1.ND,ND: F-ND: ST-6179 ()	359	951	1536
+46471	M-784		Malawi	NA				Neisseria viridiae								ERR107444	2	ND: P1.ND,ND: F-ND: ST-6179 ()	359	951	1536
+46477	M-875		Malawi	NA				Neisseria viridiae								ERR107450	2	ND: P1.ND,ND: F-ND: ST-6179 ()	359	951	1536
+46431	M-210		Malawi	NA				Neisseria viridiae								ERR107403	2	ND: P1.ND,ND: F-ND: ST-6179 ()	359	951	1536
+46438	M-225		Malawi	NA				Neisseria viridiae								ERR107410	2	ND: P1.ND,ND: F-ND: ST-6179 ()	359	951	1536
+46429	M-200		Malawi	NA				Neisseria viridiae								ERR107401	2	ND: P1.ND,ND: F-ND: ST-6179 ()	359	951	1536
+46408	M-079		Malawi	NA				Neisseria viridiae								ERR107380	2	ND: P1.ND,ND: F-ND: ST-6179 ()	359	951	1536
+46468	M-672M		Malawi	NA				Neisseria viridiae								ERR107441	2	ND: P1.ND,ND: F-ND: ST-6179 ()	359	951	1536
+46473	M-802		Malawi	NA				Neisseria viridiae								ERR107446	2	ND: P1.ND,ND: F-ND: ST-6263 ()	359	951	1536
+46416	M-102		Malawi	NA				Neisseria viridiae								ERR107388	2	ND: P1.ND,ND: F-ND: ST-6179 ()	359	951	1536
+46461	M-384		Malawi	NA				Neisseria viridiae								ERR107434	2	ND: P1.ND,ND: F-ND: ST-6179 ()	359	951	1536
+46415	M-101		Malawi	NA				Neisseria viridiae								ERR107387	2	ND: P1.ND,ND: F-ND: ST-6179 ()	359	951	1536
+21049	9715		Unknown	NA		other		Neisseria wadsworthii									8	ND: P1.ND,ND: F-ND: ST-ND (-)	242	647	1001
+49368	CCUG 4007 T	ATCC 51410; BennettTree55; CCUG 33675; CIP 103940; DSM 17688; ISL 775/91; LMG 5135; NCTC 12742	Sweden	1974		other		Neisseria weaveri								ERR160758	8	ND: P1.ND,ND: F-ND: ST-9346 ()	5669	9101	13064
+39725	LNP24849		France	2008				Neisseria zoodegmatis									75	ND: P1.ND,ND: F-ND: ST-ND (-)	2815	5429	8537
+36317	NCTC 12230 T		USA	NA				Neisseria zoodegmatis								ERR977058	308	ND: P1.ND,ND: F-ND: ST-ND (-)	3216	6195	9800
+74734	IE16-NmOB-38	WTCHG_781795_72395215	Ireland	2013				Non-Neisseria sp.								ERR4198169	93	ND: P1.ND,ND: F-ND: ST-ND (-)	28989	41423	54699
+94108	200931	2200931100	Bangladesh	2010	septicaemia	blood	sporadic case	Non-Neisseria sp.	other	NG	No Backbone: No Capsule Genes Found. Prediction code: https://github.com/ntopaz/characterize_neisseria_capsule.	discrepancy					531	discrepancy: P1.ND,ND: F-ND: ST-ND (-)	34593	50119	66049
+111345	SC12		Unknown	2021	other			Non-Neisseria sp.	other			other				ERR8015124	356	other: P1.ND,ND: F-ND: ST-ND (-)	35369	51275	67677

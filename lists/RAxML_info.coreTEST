@@ -1,0 +1,129 @@
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 114369 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 2.96%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 10 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 114369
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/mustapha/bin/RAxML/raxmlHPC-PTHREADS-SSE3 -f a -s ./BIGSdb_028404_2140091814_05228_core.fas -p 6743 -x 167327 -N 10 -m GTRCAT -n coreTEST 
+
+
+
+Time for BS model parameter optimization 57.948211
+Bootstrap[0]: Time 157.547678 seconds, bootstrap likelihood -3068160.964898, best rearrangement setting 14
+Bootstrap[1]: Time 27.592942 seconds, bootstrap likelihood -3071468.737861, best rearrangement setting 7
+Bootstrap[2]: Time 63.043829 seconds, bootstrap likelihood -3075287.864307, best rearrangement setting 6
+Bootstrap[3]: Time 61.544692 seconds, bootstrap likelihood -3054020.961854, best rearrangement setting 14
+Bootstrap[4]: Time 27.150894 seconds, bootstrap likelihood -3065673.115749, best rearrangement setting 13
+Bootstrap[5]: Time 26.787133 seconds, bootstrap likelihood -3061710.893885, best rearrangement setting 7
+Bootstrap[6]: Time 28.526448 seconds, bootstrap likelihood -3056310.066676, best rearrangement setting 6
+Bootstrap[7]: Time 28.193786 seconds, bootstrap likelihood -3069414.595006, best rearrangement setting 6
+Bootstrap[8]: Time 27.285188 seconds, bootstrap likelihood -3057766.999500, best rearrangement setting 13
+Bootstrap[9]: Time 61.299529 seconds, bootstrap likelihood -3065316.982452, best rearrangement setting 12
+
+
+Overall Time for 10 Rapid Bootstraps 513.149458 seconds
+Average Time per Rapid Bootstrap 51.314946 seconds
+
+Starting ML Search ...
+
+Fast ML optimization finished
+
+Fast ML search Time: 258.633780 seconds
+
+Slow ML Search 0 Likelihood: -3380308.710027
+Slow ML Search 1 Likelihood: -3380308.710027
+Slow ML optimization finished
+
+Slow ML search Time: 2551.654534 seconds
+Thorough ML search Time: 800.678406 seconds
+
+Final ML Optimization Likelihood: -3379773.805777
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: DNA
+alpha: 0.324272
+Tree-Length: 2.888999
+rate A <-> C: 1.177417
+rate A <-> G: 3.383018
+rate A <-> T: 0.742315
+rate C <-> G: 1.195840
+rate C <-> T: 5.957386
+rate G <-> T: 1.000000
+
+freq pi(A): 0.252898
+freq pi(C): 0.283005
+freq pi(G): 0.262870
+freq pi(T): 0.201227
+
+
+ML search took 3610.994652 secs or 1.003054 hours
+
+Combined Bootstrap and ML search took 4124.145898 secs or 1.145596 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /mnt/c/Users/M M/Box Sync/manuscripts/ClaudioSacchi/lists/RAxML_bestTree.coreTEST
+
+
+
+Found 1 tree in File /mnt/c/Users/M M/Box Sync/manuscripts/ClaudioSacchi/lists/RAxML_bestTree.coreTEST
+
+Program execution info written to /mnt/c/Users/M M/Box Sync/manuscripts/ClaudioSacchi/lists/RAxML_info.coreTEST
+All 10 bootstrapped trees written to: /mnt/c/Users/M M/Box Sync/manuscripts/ClaudioSacchi/lists/RAxML_bootstrap.coreTEST
+
+Best-scoring ML tree written to: /mnt/c/Users/M M/Box Sync/manuscripts/ClaudioSacchi/lists/RAxML_bestTree.coreTEST
+
+Best-scoring ML tree with support values written to: /mnt/c/Users/M M/Box Sync/manuscripts/ClaudioSacchi/lists/RAxML_bipartitions.coreTEST
+
+Best-scoring ML tree with support values as branch labels written to: /mnt/c/Users/M M/Box Sync/manuscripts/ClaudioSacchi/lists/RAxML_bipartitionsBranchLabels.coreTEST
+
+Overall execution time for full ML analysis: 4124.165080 secs or 1.145601 hours or 0.047733 days
+
